@@ -1,0 +1,35 @@
+{
+  "name": "color-genfile",
+  "version": "1.1.1",
+  "description": "A color generator file for all framework",
+  "main": "bin/index.js",
+  "scripts": {
+    "patch-release": "npm version patch && npm publish"
+  },
+  "bin": {
+    "cfg": "bin/index.js"
+  },
+  "dependencies": {
+    "figlet": "^1.6.0",
+    "inquirer": "^8.2.5",
+    "yargs": "^17.7.2"
+  },
+  "keywords": [
+    "color",
+    "name",
+    "file",
+    "bootstrap",
+    "generate",
+    "generator",
+    "css",
+    "scss",
+    "stylesheet",
+    "react",
+    "angular",
+    "vue",
+    "html"
+  ],
+  "author": "Amire Joseph",
+  "email": "amirejoseph83@gmail.com",
+  "license": "MIT"
+}
