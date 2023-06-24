@@ -7,10 +7,15 @@
 Color-Genfile is an npm package cli that helps you to generate different colors of your choice and generate it into a css or scss file for Html, Angular etc.
 
 
-## Usage
-* Install the package with "npm install -g color-genfile".
-* Type command cfg to start creating the color file.
+## Installation and Usage
+* Install the package with "<strong>npm install -g color-genfile</strong>".
+* Type command <strong>cfg</strong> to start creating the color file.
 * type the directory you want to create the file Make sure it is a working directory.
+ 
+## NB: Windows users
+* To install and run the cli on Windows you have to "<strong>Set-Execution Policy RemoteSigned</strong> on your command line
+* it will you will be be ask some questions read caefully and reply with Y and enter
+
 
 
 ## Configuration
@@ -42,6 +47,6 @@ Color-Genfile is an npm package cli that helps you to generate different colors 
 * Pink
 
 
-## Report Bug 🐛
+## Report Bug 🐛 or contact me
 * email: amirejoseph83@gmail.com
-* github: will be updated soon
+* github: https://github.com/Operaconga14/color-genfile
