@@ -1,5 +1,4 @@
-const orange = 
-`/* Background Colors */
+const orange = `/* Background Colors */
 .bcg-dark-o {
     background-color: #FF8C00;
 }\n
@@ -18,6 +17,6 @@ const orange =
 }\n
 .txt-orange-r {
    color: #FF4500;
-}\n`
+}\n`;
 
-module.exports = orange
+module.exports = orange;

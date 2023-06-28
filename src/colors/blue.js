@@ -1,5 +1,4 @@
-const blue = 
-`/* Background Colors */
+const blue = `/* Background Colors */
 .bcg-alice-b {
     background-color: #F0F8FF;
 }\n
@@ -120,6 +119,6 @@ const blue =
 }\n
 .txt-steel-b {
     color: #4682B4;
-}\n`
+}\n`;
 
-module.exports = blue
+module.exports = blue;

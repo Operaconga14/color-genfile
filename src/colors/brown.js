@@ -1,5 +1,4 @@
-const brown = 
-`/* Background Colors */
+const brown = `/* Background Colors */
 .bcg-brown {
     background-color: #A52A2A;
 }\n
@@ -24,6 +23,6 @@ const brown =
 }\n
 .txt-sandy {
     color: #F4A460;
-}\n`
+}\n`;
 
-module.exports = brown
+module.exports = brown;

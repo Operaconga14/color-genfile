@@ -1,5 +1,4 @@
-const white = 
-`/* Background Colors */
+const white = `/* Background Colors */
 .bcg-atique-w {
     background-color: #FAEBD7;
 }\n
@@ -36,6 +35,6 @@ const white =
 }\n
 .txt-whitesmoke {
     color: #F5F5F5;
-}\n`
+}\n`;
 
-module.exports = white
+module.exports = white;

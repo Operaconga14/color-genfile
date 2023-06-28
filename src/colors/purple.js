@@ -1,5 +1,4 @@
-const purple = 
-`/* Background Colors */
+const purple = `/* Background Colors */
 .bcg-medium-p {
     background-color: #9370DB;
 }\n
@@ -12,6 +11,6 @@ const purple =
 }\n
 .txt-purple {
     color: #800080;
-}\n`
+}\n`;
 
-module.exports = purple
+module.exports = purple;

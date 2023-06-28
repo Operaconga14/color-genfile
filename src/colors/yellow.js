@@ -1,5 +1,4 @@
-const yellow = 
-`/* Background Colors */
+const yellow = `/* Background Colors */
 .bcg-green-y {
     background-color: #ADFF2F;
 }\n
@@ -24,6 +23,6 @@ const yellow =
 }\n
 .txt-yellow {
     color: #FFFF00;
-}\n`
+}\n`;
 
-module.exports = yellow
+module.exports = yellow;

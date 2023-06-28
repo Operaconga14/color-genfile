@@ -1,5 +1,4 @@
-const red = 
-`/* Background Colors */
+const red = `/* Background Colors */
 .bcg-red {
     background-color: #FF0000;
 }\n
@@ -36,6 +35,6 @@ const red =
 }\n
 .txt-pale-violent-r {
     color: #DB7093;
-}\n`
+}\n`;
 
-module.exports = red
+module.exports = red;
