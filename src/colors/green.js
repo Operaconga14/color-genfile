@@ -1,5 +1,4 @@
-const green = 
-`/* Background Colors */
+const green = `/* Background Colors */
 .bcg-dark-g {
     background-color: #006400;
 }\n
@@ -96,6 +95,6 @@ const green =
 }\n
 .txt-light-sg {
     color: #20B2AA;
-}\n`
+}\n`;
 
-module.exports = green
+module.exports = green;

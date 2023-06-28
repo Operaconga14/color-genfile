@@ -1,5 +1,4 @@
-const pink = 
-`/* Background Colors */
+const pink = `/* Background Colors */
 .bcg-deep-p {
     background-color: #FF1493;
 }\n
@@ -24,6 +23,6 @@ const pink =
 }\n
 .txt-pink {
     color: #FFC8CB;
-}\n`
+}\n`;
 
-module.exports = pink
+module.exports = pink;

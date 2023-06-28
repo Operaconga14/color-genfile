@@ -1,2 +1,2 @@
-const inquirer = require ('inquirer');
-const config = require('../src/config')
+const inquirer = require('inquirer');
+const config = require('../src/config');
