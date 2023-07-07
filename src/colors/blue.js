@@ -1,62 +1,62 @@
 const blue = `/* Background Colors */
-.bcg-alice-b {
+.bg-alice-b {
     background-color: #F0F8FF;
 }\n
-.bcg-blue {
+.bg-blue {
     background-color: #0000FF;
 }\n
-.bcg-violent-b {
+.bg-violent-b {
     background-color: #8A2BE2;
 }\n
-.bcg-cadet-b {
+.bg-cadet-b {
     background-color: #5F9EA0;
 }\n
-.bcg-cornflower-b {
+.bg-cornflower-b {
     background-color: #6495ED;
 }\n
-.bcg-dark-b {
+.bg-dark-b {
     background-color: #00008B;
 }\n
-.bcg-dark-slate-b {
+.bg-dark-slate-b {
     background-color: #483D8B;
 }\n
-.bcg-deep-sky-b {
+.bg-deep-sky-b {
     background-color: #00BFFF;
 }\n
-.bcg-dodger-b {
+.bg-dodger-b {
     background-color: #1E90FF;
 }\n
-.bcg-light-b {
+.bg-light-b {
     background-color: #ADD8E6;
 }\n
-.bcg-light-sky-b {
+.bg-light-sky-b {
     background-color: #87CEFA;
 }\n
-.bcg-light-steel-b {
+.bg-light-steel-b {
     background-color: #B0C4DE;
 }\n
-.bcg-medium-b {
+.bg-medium-b {
     background-color: #0000CD;
 }\n
-.bcg-medium-slate-b {
+.bg-medium-slate-b {
     background-color: #7B68EE;
 }\n
-.bcg-midnight-b {
+.bg-midnight-b {
     background-color: #191970;
 }\n
-.bcg-powder-b {
+.bg-powder-b {
     background-color: #B0E0E6;
 }\n
-.bcg-royal-b {
+.bg-royal-b {
     background-color: #4169E1;
 }\n
-.bcg-sky-b {
+.bg-sky-b {
     background-color: #87CEEB;
 }\n
-.bcg-slate-b {
+.bg-slate-b {
     background-color: #6A5ACD;
 }\n
-.bcg-steel-b {
+.bg-steel-b {
     background-color: #4682B4;
 }\n
 /* Text Colors */

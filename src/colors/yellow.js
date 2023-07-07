@@ -1,14 +1,14 @@
 const yellow = `/* Background Colors */
-.bcg-green-y {
+.bg-green-y {
     background-color: #ADFF2F;
 }\n
-.bcg-goldenrod-y {
+.bg-goldenrod-y {
     background-color: #FAFAD2;
 }\n
-.bcg-light-y {
+.bg-light-y {
     background-color: #FFFFE0;
 }\n
-.bcg-yellow {
+.bg-yellow {
     background-color: #FFFF00;
 }\n
 /* Text Colors */

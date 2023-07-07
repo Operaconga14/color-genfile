@@ -1,50 +1,50 @@
 const green = `/* Background Colors */
-.bcg-dark-g {
+.bg-dark-g {
     background-color: #006400;
 }\n
-.bcg-olive-g {
+.bg-olive-g {
     background-color: #556B2F;
 }\n
-.bcg-dark-sg {
+.bg-dark-sg {
     background-color: #8DBC8F;
 }\n
-.bcg-forest-g {
+.bg-forest-g {
     background-color: #228B22;
 }\n
-.bcg-green {
+.bg-green {
     background-color: #008000;
 }\n
-.bcg-green-y {
+.bg-green-y {
     background-color: #ADFF2F;
 }\n
-.bcg-lawn-g {
+.bg-lawn-g {
     background-color: #7CFC00;
 }\n
-.bcg-light-g {
+.bg-light-g {
     background-color: #90EE90;
 }\n
-.bcg-lime-g {
+.bg-lime-g {
     background-color: #32CD32;
 }\n
-.bcg-medium-sg {
+.bg-medium-sg {
     background-color: #3CB371;
 }\n
-.bcg-pale-g {
+.bg-pale-g {
     background-color: #98FB98;
 }\n
-.bcg-seagreen {
+.bg-seagreen {
     background-color: #2E8B57;
 }\n
-.bcg-spring-g {
+.bg-spring-g {
     background-color: #00FF7F;
 }\n
-.bcg-yellow-g {
+.bg-yellow-g {
     background-color: #9ACD32;
 }\n
-.bcg-medium-spg {
+.bg-medium-spg {
     background-color: #00FA9A;
 }\n
-.bcg-light-sg {
+.bg-light-sg {
     background-color: #20B2AA;
 }\n
 /* Text Colors */

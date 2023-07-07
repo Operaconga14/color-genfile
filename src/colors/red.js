@@ -1,20 +1,20 @@
 const red = `/* Background Colors */
-.bcg-red {
+.bg-red {
     background-color: #FF0000;
 }\n
-.bcg-dark-r {
+.bg-dark-r {
     background-color: #8B0000;
 }\n
-.bcg-idian-r {
+.bg-idian-r {
     background-color: #CD5C5C;
 }\n
-.bcg-medium-violent-r {
+.bg-medium-violent-r {
     background-color: #C71585;
 }\n
-.bcg-orange-r {
+.bg-orange-r {
     background-color: #FF4500;
 }\n
-.bcg-pale-violent-r {
+.bg-pale-violent-r {
     background-color: #DB7093;
 }\n
 /* Text Colors */

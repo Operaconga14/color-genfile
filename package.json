@@ -1,6 +1,6 @@
 {
-  "name": "color-genfile",
-  "version": "1.1.3",
+  "name": "@Operaconga14/color-genfile",
+  "version": "1.1.4",
   "description": "A color generator file for all framework",
   "main": "bin/index.js",
   "scripts": {
@@ -8,7 +8,7 @@
     "lint": "eslint bin/ src/"
   },
   "bin": {
-    "cfg": "bin/index.js"
+    "cgf": "bin/index.js"
   },
   "dependencies": {
     "chalk": "^5.2.0",
@@ -29,10 +29,11 @@
     "react",
     "angular",
     "vue",
-    "html"
+    "html",
+    "ui"
   ],
-  "author": "Amire Joseph",
-  "email": "amirejoseph83@gmail.com",
+  "author": "Operaconga14",
+  "email": ["amirejoseph83@gmail.com", "operacongahub@gmail.com"],
   "license": "MIT",
   "repository": {
     "type": "git",

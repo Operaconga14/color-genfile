@@ -1,8 +1,8 @@
 const purple = `/* Background Colors */
-.bcg-medium-p {
+.bg-medium-p {
     background-color: #9370DB;
 }\n
-.bcg-purple {
+.bg-purple {
     background-color: #800080;
 }\n
 /* Text Colors */

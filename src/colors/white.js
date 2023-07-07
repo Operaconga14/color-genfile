@@ -1,20 +1,20 @@
 const white = `/* Background Colors */
-.bcg-atique-w {
+.bg-atique-w {
     background-color: #FAEBD7;
 }\n
-.bcg-floral-w {
+.bg-floral-w {
     background-color: #FFFAF0;
 }\n
-.bcg-ghost-w {
+.bg-ghost-w {
     background-color: #F8F8FF;
 }\n
-.bcg-navajo-w {
+.bg-navajo-w {
     background-color: #FFDEAD;
 }\n
-.bcg-white {
+.bg-white {
     background-color: #FFFFFF;
 }\n
-.bcg-whitesmoke {
+.bg-whitesmoke {
     background-color: #F5F5F5;
 }\n
 /* Text Colors */

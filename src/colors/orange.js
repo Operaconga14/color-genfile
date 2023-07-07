@@ -1,11 +1,11 @@
 const orange = `/* Background Colors */
-.bcg-dark-o {
+.bg-dark-o {
     background-color: #FF8C00;
 }\n
-.bcg-orange {
+.bg-orange {
     background-color: #FFA500;
 }\n
-.bcg-orange-r {
+.bg-orange-r {
     background-color: #FF4500;
 }\n
 /* Text Colors */

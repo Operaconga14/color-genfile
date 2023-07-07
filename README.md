@@ -1,4 +1,4 @@
-# Color-Genfile 💡 
+# Color-Genfile CLI💡 
 ![MIT License](https://img.shields.io/static/v1.svg?label=📜%20License&message=MIT&color=informational)
 
 💌 💓 
@@ -14,7 +14,7 @@ Color-Genfile is an npm package cli that helps you to generate different colors 
 ```
 * Type command 
 ```bash 
-    cfg to start creating the color file
+    cgf -- To Start The Cli
 ```
 * type the directory you want to create the file Make sure it is a working directory.
  
@@ -38,27 +38,27 @@ MachinePolicy       Undefined
 
 
 ## Configuration
+
+### Html
 ```bash
-    ### Html
-    <link rel="stylesheet" href="Location where the file is store">
+    <link rel="stylesheet" href="css/colors.css">
 ```
+### React
 ```css
-    ### React
+    Instruction Cming Soon
 ```
+### Angular
 ```css
-    ### Angular
-
-    in your src/'styles.css or scss' add @import url('Location of the file')
-
+    in your src/styles.css or .scss add @import url('assets/colors.css')
 ```
-
+### Vue
 ```css
-    ### Vue
+    Instruction Coming Soon
 ```
 ## How to call in your colors
 
 ```html
-    <div class="bcg-blue"> Background Color </div>
+    <div class="bg-blue"> Background Color </div>
     <p class="txt-blue">Text Color</p>
 ```
 
@@ -73,7 +73,7 @@ MachinePolicy       Undefined
 * Green
 * White
 * Pink
-More Colors Loading.....
+* More Colors Loading.....
 
 
 ## Report Bug 🐛 or contact me

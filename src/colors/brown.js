@@ -1,14 +1,14 @@
 const brown = `/* Background Colors */
-.bcg-brown {
+.bg-brown {
     background-color: #A52A2A;
 }\n
-.bcg-rosy {
+.bg-rosy {
     background-color: #BC8F8F;
 }\n
-.bcg-saddle {
+.bg-saddle {
     background-color: #8B4513;
 }\n
-.bcg-sandy {
+.bg-sandy {
     background-color: #F4A460;
 }\n
 /* Text Colors */

@@ -1,14 +1,14 @@
 const pink = `/* Background Colors */
-.bcg-deep-p {
+.bg-deep-p {
     background-color: #FF1493;
 }\n
-.bcg-hot-p {
+.bg-hot-p {
     background-color: #FF69B4;
 }\n
-.bcg-light-p {
+.bg-light-p {
     background-color: #FFB6C1;
 }\n
-.bcg-pink {
+.bg-pink {
     background-color: #FFC8CB;
 }\n
 /* Text Colors */

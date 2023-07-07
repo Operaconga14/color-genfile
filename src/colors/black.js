@@ -1,5 +1,5 @@
 const black = `/* Background Colors */
-.bcg-black {
+.bg-black {
     background-color: #000000;
 }\n
 /* Text Colors */

@@ -3,38 +3,21 @@
 
 name: Publih Package to npmjs
 
-on:
-  release:
-    types: [published]
-  push:
-    branches:
-      - main
-      - release/*
+on: push
 
 jobs:
-  build:
-    runs-on: ubuntu-latest
-    permissions:
-      contents: read
-      packages: write
-    steps:
-      - uses: actions/checkout@v3
-      - uses: actions/setup-node@v3
-        with:
-          node-version: '16.x'
-      - run: npm ci
-      - run: npm test
-
-  publish-npm:
-    needs: build
+  publish:
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v3
-      - uses: actions/setup-node@v3
+      - name: checkout
+        uses: actions/checkout@v3
+      - name: node
+        uses: actions/setup-node@v3
         with:
           node-version: 16
-          registry-url: https://registry.npmjs.org/color-genfile
-      - run: npm ci
-      - run: npm publish
+          registry-url: https://registry.npmjs.org
+      - name: publish
+        run: npm publish --access private
+        working-directory: my-package
         env:
-          NODE_AUTH_TOKEN: ${{secrets.npm_token}}
+          NODE_AUTH_TOKEN: ${{secrets.NPM_AUTH_TOKEN}}
