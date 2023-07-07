@@ -15,7 +15,7 @@ jobs:
         uses: actions/setup-node@v3
         with:
           node-version: 16
-          registry-url: https://registry.npmjs.org/operacongahub/color-genfile
+          registry-url: https://registry.npmjs.org/color-genfile
       - name: publish
         run: npm publish --access public
         working-directory: ""
