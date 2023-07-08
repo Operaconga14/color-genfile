@@ -1,7 +1,7 @@
 # This workflow will run tests using node and then publish a package to GitHub Packages when a release is created
 # For more information see: https://docs.github.com/en/actions/publishing-packages/publishing-nodejs-packages
 
-name: Publih Package to npmjs
+name: Publish Package to npmjs
 
 on: push
 
@@ -10,14 +10,13 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - name: checkout
-        uses: actions/checkout@v3
+        uses: actions/checkout@v2
       - name: node
         uses: actions/setup-node@v3
         with:
           node-version: 16
           registry-url: https://registry.npmjs.org/color-genfile
       - name: publish
-        run: npm publish --access public
-        working-directory: ""
+        run: npm publish
         env:
           NODE_AUTH_TOKEN: ${{secrets.NPM_AUTH_TOKEN}}
