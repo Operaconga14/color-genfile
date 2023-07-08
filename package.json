@@ -1,5 +1,5 @@
 {
-  "name": "@Operaconga14/color-genfile",
+  "name": "color-genfile",
   "version": "1.1.4",
   "description": "A color generator file for all framework",
   "main": "bin/index.js",
