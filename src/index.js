@@ -2,7 +2,7 @@ const figlet = require("figlet");
 const inquirer = require('inquirer');
 
 
-figlet.text(`Color - GenFile`, function (err, data) {
+figlet.text(`Color - GenFile - CLI`, function (err, data) {
     if (err) {
         console.log(`Somehting Went wrong... restart your terminal try again`);
         return
@@ -26,4 +26,3 @@ We got you covered`);
             console.log(answers)
         })
 })
-

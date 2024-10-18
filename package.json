@@ -1,7 +1,7 @@
 {
-  "name": "color-genfile",
-  "version": "1.1.4",
-  "description": "A color generator file for all framework",
+  "name": "color-genfile-cli",
+  "version": "1.1.5",
+  "description": "A color generator cli file for all framework",
   "main": "bin/index.js",
   "scripts": {
     "patch-release": "npm version patch && npm publish",
@@ -37,7 +37,7 @@
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "https://github.com/Operaconga14/color-genfile"
+    "url": "https://github.com/Operaconga14/color-genfile-cli"
   },
   "devDependencies": {
     "eslint": "^8.43.0",

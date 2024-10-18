@@ -1,26 +1,26 @@
-# Color-Genfile CLI💡 
+# Color-Genfile CLI💡
 ![MIT License](https://img.shields.io/static/v1.svg?label=📜%20License&message=MIT&color=informational)
 
-💌 💓 
+💌 💓
 
 ## Description
-Color-Genfile is an npm package cli that helps you to generate different colors of your choice and generate it into a css or scss file for Html, Angular React etc.
+Color-Genfile Cli is an npm package cli that helps you to generate different colors of your choice and generate it into a css or scss file for Html, Angular React etc.
 
 
 ## Installation and Usage
-* Install the package with 
-```bash 
+* Install the package with
+```bash
     npm install -g color-genfile
 ```
-* Type command 
-```bash 
+* Type command
+```bash
     cgf -- To Start The Cli
 ```
 * type the directory you want to create the file Make sure it is a working directory.
- 
+
 ## NB: Windows users
-* To install and run the cli on Windows you have to 
-```bash 
+* To install and run the cli on Windows you have to
+```bash
 Set-ExecutionPolicy -ExecutionPolicy RemoteSigned -Scope LocalMachine
 Get-ExecutionPolicy -List
 
@@ -78,7 +78,4 @@ MachinePolicy       Undefined
 
 ## Report Bug 🐛 or contact me
 * email: amirejoseph83@gmail.com
-* github: https://github.com/Operaconga14/color-genfile
-
-## Support Project
-* Opencolective: https://opencollective.com/amire-joseph
+* github: https://github.com/Operaconga14/color-genfile-cli
