@@ -75,7 +75,10 @@ MachinePolicy       Undefined
 * Pink
 * More Colors Loading.....
 
+## New Feautures Coming Soon
+* Variables generator for colors
+
 
 ## Report Bug 🐛 or contact me
 * email: amirejoseph83@gmail.com
-* github: https://github.com/Operaconga14/color-genfile-cli
+* github: https://github.com/Operaconga14/color-genfile

@@ -1,7 +1,7 @@
 {
   "name": "color-genfile-cli",
-  "version": "1.1.5",
-  "description": "A color generator cli file for all framework",
+  "version": "1.1.6",
+  "description": "Color-Genfile cli is a Vscode extension that helps you to generate different colors of your choice and generate it into a css or scss file for Html, Angular React etc.",
   "main": "bin/index.js",
   "scripts": {
     "patch-release": "npm version patch && npm publish",
