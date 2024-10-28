@@ -1,4 +1,7 @@
-const orange = `/* Background Colors */
+"use strict";
+Object.defineProperty(exports, "__esModule", { value: true });
+exports.orange = void 0;
+exports.orange = `/* Orange Background Colors */
 .bg-dark-o {
     background-color: #FF8C00;
 }\n
@@ -8,7 +11,7 @@ const orange = `/* Background Colors */
 .bg-orange-r {
     background-color: #FF4500;
 }\n
-/* Text Colors */
+/* Orange Text Colors */
 .txt-dark-o {
     color: #FF8C00;
 }\n
@@ -18,5 +21,3 @@ const orange = `/* Background Colors */
 .txt-orange-r {
    color: #FF4500;
 }\n`;
-
-module.exports = orange;

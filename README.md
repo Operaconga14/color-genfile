@@ -9,12 +9,21 @@ Color-Genfile Cli is an npm package cli that helps you to generate different col
 
 ## Installation and Usage
 * Install the package with
+For Global use
 ```bash
     npm install -g color-genfile
 ```
+For Project Only use
+```bash
+    npm install color-genfile
+```
 * Type command
 ```bash
-    cgf -- To Start The Cli
+   npx cgf g -c -- To Start The Cli
+```
+OR
+```bash
+   cgf g -c -- To Start The Cli
 ```
 * type the directory you want to create the file Make sure it is a working directory.
 
@@ -77,6 +86,7 @@ MachinePolicy       Undefined
 
 ## New Feautures Coming Soon
 * Variables generator for colors
+* generating of random colors
 
 
 ## Report Bug 🐛 or contact me

@@ -1,10 +1,8 @@
-const black = `/* Background Colors */
+export const black = `/* Black Background Colors */
 .bg-black {
     background-color: #000000;
 }\n
-/* Text Colors */
+/* Black Text Colors */
 .txt-black {
     color: #000000;
 }\n`;
-
-module.exports = black;

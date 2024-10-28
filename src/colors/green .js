@@ -1,4 +1,7 @@
-const green = `/* Background Colors */
+"use strict";
+Object.defineProperty(exports, "__esModule", { value: true });
+exports.green = void 0;
+exports.green = `/* Green Background Colors */
 .bg-dark-g {
     background-color: #006400;
 }\n
@@ -47,7 +50,7 @@ const green = `/* Background Colors */
 .bg-light-sg {
     background-color: #20B2AA;
 }\n
-/* Text Colors */
+/* Green Text Colors */
 .txt-dark-g {
     color: #006400;
 }\n
@@ -96,5 +99,3 @@ const green = `/* Background Colors */
 .txt-light-sg {
     color: #20B2AA;
 }\n`;
-
-module.exports = green;

@@ -1,4 +1,4 @@
-const white = `/* Background Colors */
+export const white = `/* White Background Colors */
 .bg-atique-w {
     background-color: #FAEBD7;
 }\n
@@ -17,7 +17,7 @@ const white = `/* Background Colors */
 .bg-whitesmoke {
     background-color: #F5F5F5;
 }\n
-/* Text Colors */
+/* White Text Colors */
 .txt-atiquw {
     color: #FAEBD7;
 }\n
@@ -36,5 +36,3 @@ const white = `/* Background Colors */
 .txt-whitesmoke {
     color: #F5F5F5;
 }\n`;
-
-module.exports = white;
